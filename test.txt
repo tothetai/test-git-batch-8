@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+HEllo
+Test lan 2
+=======
+HEllo
+>>>>>>> 92684ec... TEST1
